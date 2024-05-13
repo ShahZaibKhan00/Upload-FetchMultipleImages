@@ -11,3 +11,5 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 The version used in this project of technology is Laravel 10 and PHP 8.2.
 
 The database used in this project is MySql.
+
+https://www.itsolutionstuff.com/post/laravel-11-rest-api-authentication-using-sanctum-tutorialexample.html
